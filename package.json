@@ -70,7 +70,7 @@
     "grunt": "~1.0.1",
     "grunt-cli": "~1.2.0",
     "grunt-contrib-clean": "~1.0.0",
-    "grunt-jsdoc": "~2.2.1",
+    "grunt-jsdoc": "^2.4.0",
     "grunt-npm2bower-sync": "^0.9.0",
     "grunt-shell": "^2.0.0",
     "minifyify": "~7.3.3",
